@@ -1,0 +1,261 @@
+2016/11/02 14:09:40 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 14:09:40 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 14:09:43 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 14:09:43 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 14:09:57 isHaveActivity 462 mysql fetch result failed: %v sql: statement expects 2 inputs; got 4
+2016/11/02 14:12:07 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 14:12:07 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 14:12:10 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 14:12:10 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 14:12:13 isHaveActivity 462 mysql fetch result failed: %v sql: statement expects 2 inputs; got 4
+2016/11/02 14:37:37 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 14:37:37 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 14:37:41 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 14:37:41 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 14:37:43 isHaveActivity 469 mysql fetch result failed: %v sql: statement expects 2 inputs; got 4
+2016/11/02 14:39:15 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 14:39:15 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 14:39:17 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 14:39:17 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 14:39:20 isHaveActivity 469 mysql fetch result failed: %v sql: statement expects 2 inputs; got 4
+2016/11/02 14:42:29 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 14:42:29 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 14:42:31 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 14:42:31 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 14:42:34 isHaveActivity 469 mysql fetch result failed: %v Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? AND `type` = ? ORDER BY createtime DESC %!(EXTRA string=2016-11-02 14:42:34, s' at line 1
+2016/11/02 14:43:21 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 14:43:21 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 14:43:24 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 14:43:24 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 14:44:56 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 14:44:56 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 14:44:58 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 14:44:58 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 14:45:17 getCard 570 mysql fetch result failed: %v sql: no rows in result set
+2016/11/02 15:17:13 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 15:17:13 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 15:17:15 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 15:17:15 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 15:17:18 can't find coupon
+2016/11/02 15:21:16 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 15:21:16 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 15:21:18 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 15:21:18 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 15:21:20 can't find coupon
+2016/11/02 15:21:21 can't find coupon
+2016/11/02 15:21:21 can't find coupon
+2016/11/02 15:24:48 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 15:24:48 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 15:24:50 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 15:24:50 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 15:40:42 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 15:40:42 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 15:40:44 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/02 15:40:44 [CLCW Order SERVER] Biz Init Finished.
+2016/11/02 15:40:46 can't find coupon
+2016/11/10 13:52:20 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 13:52:20 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 13:52:40 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 13:52:40 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 13:54:20 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 13:54:20 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 13:57:10 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 13:57:10 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 14:34:46 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 14:34:46 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 14:34:52 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 14:34:52 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 14:45:37 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 14:45:37 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 15:18:06 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 15:18:06 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 15:19:01 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 15:19:01 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 15:22:11 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 15:22:11 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 15:22:14 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 15:22:14 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 15:24:18 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 15:24:18 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:05:38 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:05:38 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:11:25 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:11:25 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:14:13 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:14:13 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:14:21 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:14:21 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:16:47 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:16:47 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:17:27 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:17:27 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:19:25 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:19:25 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:19:50 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:19:50 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:20:24 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:20:24 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:21:24 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:21:24 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:24:01 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:24:01 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:24:05 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:24:05 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:28:38 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:28:38 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:29:40 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:29:40 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:30:28 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:30:28 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:32:53 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:32:53 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:36:20 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:36:20 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:40:10 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:40:10 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:48:14 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:48:14 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:54:31 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:54:31 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:55:04 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:55:04 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:56:48 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:56:48 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:57:37 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:57:37 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:58:21 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:58:21 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 16:58:57 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 16:58:57 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 17:14:53 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 17:14:53 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 17:19:19 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 17:19:19 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 17:19:47 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 17:19:47 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 17:21:41 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 17:21:41 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 17:26:36 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 17:26:36 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 17:28:01 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 17:28:01 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 17:30:53 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 17:30:53 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 17:32:08 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 17:32:08 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 17:35:44 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 17:35:44 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 17:44:15 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 17:44:15 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 17:44:34 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 17:44:34 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 18:09:58 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 18:09:58 [CLCW Order SERVER] Biz Init Finished.
+2016/11/10 18:14:54 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/10 18:14:54 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 09:48:13 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 09:48:14 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 09:53:15 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 09:53:15 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 09:53:49 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 09:53:49 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 09:54:29 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 09:54:29 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 09:54:40 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 09:54:40 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 10:05:51 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 10:05:51 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 10:06:48 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 10:06:48 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 10:07:12 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 10:07:12 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 10:09:46 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 10:09:46 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 10:11:56 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 10:11:56 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 10:12:41 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 10:12:41 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 10:18:17 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 10:18:17 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 10:28:29 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 10:28:29 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 10:29:20 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 10:29:20 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 10:36:34 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 10:36:34 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 10:39:32 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 10:39:32 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 10:40:40 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 10:40:40 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 10:41:59 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 10:41:59 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 11:46:02 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 11:46:02 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 11:55:50 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 11:55:50 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 11:56:34 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 11:56:34 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 12:03:25 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 12:03:25 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:32:19 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:32:19 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:33:24 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:33:24 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:35:31 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:35:31 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:44:32 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:44:32 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:45:12 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:45:12 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:45:54 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:45:54 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:46:23 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:46:23 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:46:51 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:46:51 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:48:24 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:48:24 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:49:00 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:49:00 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:52:48 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:52:48 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:52:52 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:52:52 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:53:56 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:53:56 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:54:24 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:54:24 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:55:09 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:55:09 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 13:59:08 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 13:59:08 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 14:17:33 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 14:17:33 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 14:17:38 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 14:17:38 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 14:20:05 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 14:20:05 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 14:20:32 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 14:20:32 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 14:20:52 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 14:20:52 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 14:28:15 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 14:28:15 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 14:28:59 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 14:28:59 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 14:30:47 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 14:30:47 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 14:39:33 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 14:39:33 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 14:40:17 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 14:40:17 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 14:48:42 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 14:48:42 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 14:49:23 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 14:49:23 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 14:50:15 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 14:50:15 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 14:52:01 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 14:52:01 [CLCW Order SERVER] Biz Init Finished.
+2016/11/11 14:52:24 dbuser:123456@tcp(192.168.2.115:3306)/aums?charset=utf8mb4
+2016/11/11 14:52:24 [CLCW Order SERVER] Biz Init Finished.
